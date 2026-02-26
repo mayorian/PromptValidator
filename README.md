@@ -82,6 +82,7 @@ All updated in real time.
 
 ## 🛠️ Engine Architecture
 
+-**Electron framework is v40.6.1**
 - **Vanilla JavaScript**
 - **CodeMirror 5** (live structured editor)
 - **Chart.js 4** (data visualization layer)
@@ -113,5 +114,33 @@ Prompt Validator gives you visibility into prompt strength **before deployment**
 It’s a linting layer for AI language.
 
 ---
+
+⚙️ Getting Started
+
+Welcome to the offline desktop version of Prompt Validator.
+
+Follow these steps to launch the application:
+
+🧩 Download PromptValidator.zip from the repository releases
+
+📦 Unzip the archive to any folder on your computer
+
+🖥️ The application is built with Electron — no web browser is required
+
+▶️ After extracting, open Prompt Validator.exe
+
+Once started:
+
+🌐 The internal web interface will automatically load
+
+✍️ You can immediately begin writing your prompt
+
+📊 Real-time analysis and visual metrics will appear as you type
+
+Additional behavior:
+
+🔄 On each launch, the application downloads the latest word databank
+
+🧠 This keeps impact detection and clarity scoring continuously up to date
 
 
