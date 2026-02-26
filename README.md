@@ -115,32 +115,28 @@ It’s a linting layer for AI language.
 
 ---
 
-⚙️ Getting Started
+## ⚙️ Getting Started
 
-Welcome to the offline desktop version of Prompt Validator.
+Welcome to the offline desktop version of **Prompt Validator**.
 
 Follow these steps to launch the application:
 
-🧩 Download PromptValidator.zip from the repository releases
-
-📦 Unzip the archive to any folder on your computer
-
-🖥️ The application is built with Electron — no web browser is required
-
-▶️ After extracting, open Prompt Validator.exe
+- 🧩 Download `PromptValidator.zip` from the repository releases
+- 📦 Unzip the archive to any folder on your computer
+- 🖥️ The application is built with **Electron** — no web browser is required
+- ▶️ After extracting, open **`Prompt Validator.exe`**
 
 Once started:
 
-🌐 The internal web interface will automatically load
-
-✍️ You can immediately begin writing your prompt
-
-📊 Real-time analysis and visual metrics will appear as you type
+- 🌐 The internal web interface will automatically load
+- ✍️ You can immediately begin writing your prompt
+- 📊 Real-time analysis and visual metrics will appear as you type
 
 Additional behavior:
 
-🔄 On each launch, the application downloads the latest word databank
+- 🔄 On **each launch**, the application downloads the latest **word databank**
+- 🧠 This keeps impact detection and clarity scoring continuously up to date
 
-🧠 This keeps impact detection and clarity scoring continuously up to date
+You're now ready to engineer your prompts.
 
 
