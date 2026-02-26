@@ -2,7 +2,7 @@
 ### Measure your prompts before the model does.
 
 > Stop guessing. Start engineering.
-
+![Prompt Validator Tool](imgs/prompt intro.png)
 ---
 
 ## 🧠 The Rocket Introduction!
