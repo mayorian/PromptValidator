@@ -1,7 +1,6 @@
-# ⚡ PROMPT VALIDATOR  
+# ⚡ PROMPT VALIDATION TOOL  
 ### Measure your prompts before the model does.
 
-> Stop guessing. Start engineering.
 ![Prompt Validator Tool](https://raw.githubusercontent.com/mayorian/PromptValidator/refs/heads/main/imgs/prompt%20intro.png)
 ---
 
