@@ -5,9 +5,9 @@
 
 ---
 
-## 🧠 What Is This?
+## 🧠 The Rocket Introduction!
 
-**Prompt Validator** is a real-time linguistic analysis engine for Large Language Model prompts.
+**Prompt Validator** is a real-time, static syntax analysis engine for Large Language Model prompts.
 
 It inspects your prompt *before* it reaches an LLM and evaluates:
 
@@ -114,9 +114,4 @@ It’s a linting layer for AI language.
 
 ---
 
-## ⚙️ Quick Start
 
-```bash
-git clone https://github.com/YOUR_USERNAME/prompt-validator
-cd prompt-validator
-open index.html
