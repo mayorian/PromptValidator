@@ -57,9 +57,6 @@ The system computes a dynamic **Clarity Score (0–100%)** based on:
 - Prompt length normalization  
 - Directive entropy  
 
-You don’t just write prompts.  
-You see their structural integrity.
-
 ---
 
 ## 📊 Built-In Analytics Engine
@@ -82,7 +79,6 @@ All updated in real time.
 ## 🛠️ Engine Architecture
 
 -**Electron framework is v40.6.1**
-- **Vanilla JavaScript**
 - **CodeMirror 5** (live structured editor)
 - **Chart.js 4** (data visualization layer)
 - Optional GPT token encoder
@@ -107,9 +103,7 @@ When building:
 - Guardrail logic  
 
 Prompt reliability becomes critical.
-
 Prompt Validator gives you visibility into prompt strength **before deployment**.
-
 It’s a linting layer for AI language.
 
 ---
